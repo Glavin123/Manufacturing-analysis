@@ -62,13 +62,15 @@ The dashboards include critical KPIs and analytical visuals such as:
 ## 🖼️ Project Visuals  
 
 ### 📊 Excel Dashboard  
-![Excel Dashboard](./Screenshot%202025-10-27%20202449.png)
+<img width="1459" height="902" alt="Screenshot 2025-10-27 202449" src="https://github.com/user-attachments/assets/52dada9a-f8ec-41a6-b80a-8f5c72b3ed21" />
+
 
 ### 📈 Power BI Dashboard  
-![Power BI Dashboard](./WhatsApp%20Image%202025-10-27%20at%2020.35.56_9f7236c2.jpg)
+![WhatsApp Image 2025-10-27 at 20 35 56_9f7236c2](https://github.com/user-attachments/assets/781bd559-951e-481e-b25e-3379e6b02fec)
+
 
 ### 📉 Tableau Dashboard  
-![Tableau Dashboard](./Screenshot%202025-10-28%20190414.png)
+<img width="1920" height="1080" alt="Screenshot 2025-10-28 190414" src="https://github.com/user-attachments/assets/344ef036-a223-4df2-b132-2ff5a7b02cc7" />
 
 ---
 
